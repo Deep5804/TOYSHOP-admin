@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.nav-link.active {
+  background-color: #6f42c1 !important;
+  color: white !important;
+  font-weight: semibold !important;
+}
+
+input{
+  border-radius: 0px !important;
+}
